@@ -432,7 +432,7 @@ b, strong {
 }	
 .carousel-item.banner{
 		height: 360px;
-		background: #000;
+		background: #8b4830;
 		overflow: hidden;
 }
 
@@ -891,7 +891,7 @@ footer .text-light {
 /* Carousel Hero */
 /* Hero Carousel */
 #template-mo-zay-hero-carousel {
-    background: linear-gradient(270deg, #000000 0%, #333333 9.91%, #000000 32.86%);
+    background: linear-gradient(270deg, #8b4830 0%, #8b4830 9.91%, #8b4830 32.86%);
     background-size: cover;
     background-position: center;
 }
